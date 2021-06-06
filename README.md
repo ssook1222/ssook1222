@@ -1,7 +1,18 @@
 ![github-001 (1)](https://user-images.githubusercontent.com/60427387/120912024-d1c36580-c6c6-11eb-9175-2d773d39ff6a.png)
 
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=ssook1222&show_icons=true&hide=contribs,prs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssook1222&show_icons=true&hide=contribs,prs"/>
+</a>&nbsp
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ssook1222&layout=compact&hide=scss,GLSL,shaderLab,HLSLt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssook1222&layout=compact&hide=scss,GLSL,shaderLab,HLSL" />
+</a>
+</p>
+
+
 <p align= "center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssook1222%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=awesomelists.svg&icon_color=%23FFFFFF&title=&edge_flat=false"/></a>
+ 
 </p>
 
 <h3> <p align = "center">💕 About Me 💕</p></h3>
