@@ -28,11 +28,14 @@
  <a href="mailto:langgel1222@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
  </a>
+  <a href="https://www.youtube.com/channel/UC3XziZapRmYcjkiVDSrdnog">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white">
+ </a> 
 </p>
 
 
-  <h3> <p align = "center">🛠 사용해 본 기술스택 🛠</p></h3>
-  <h4> <p align = "center"> 📍 Language( MarkUp, StyleSheet langauge 포함 ) 📍 </p> </h4>  
+  <h3> <p align = "center">🛠 사용해 본 것들! 🛠</p></h3>
+  <h4> <p align = "center"> 📍 Language 📍 </p> </h4>  
   <p align= "center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C%2b%2b-00599C?style=flat-square&logo=C%2b%2b&logoColor=white"/></a>&nbsp
@@ -42,16 +45,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
+  </p>
+  <p align = "center">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>&nbsp
   </p>
-  <p align= "center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=Css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MarkDown-000000?style=flat-square&logo=markdown&logoColor=white"/></a>&nbsp
-  </p>
+ 
   
   <h4> <p align = "center"> 📍 The Others 📍 </p> </h4>
-  <h5> <p align = "center"> 위에 분류한 Language 제외 사용해 본 툴, DB, 플랫폼들입니다 : ) </p><h5>   
+  <h5> <p align = "center"> 위의 분류한 것 제외 사용해 본 tool(협업 툴, 엔진 등... 사용해 본 언어 제외 모두 여기에 분류)입니다 : ) </p><h5>
+ 
   <p align= "center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp
