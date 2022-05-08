@@ -5,7 +5,7 @@
   <img style="width: 35%; display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssook1222&layout=compact&hide=scss,GLSL,shaderLab,HLSL" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=ssook1222&show_icons=trues">
-  <img style="width: 55%; display: inline-block" src="https://github-readme-stats.vercel.app/api?username=ssook1222&show_icons=true&hide=contribs,prs"/>
+  <img style="width: 42%; display: inline-block" src="https://github-readme-stats.vercel.app/api?username=ssook1222&show_icons=true"/>
 </a>
 </p>
 
