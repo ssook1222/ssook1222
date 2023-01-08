@@ -1,13 +1,7 @@
-![img](https://user-images.githubusercontent.com/60427387/160195762-d0d79589-ae28-48a7-8837-a6b34858cb75.png)
+![제목을-입력해주세요_-002 (1)](https://user-images.githubusercontent.com/60427387/211186587-10a94259-273e-45fc-b52b-2ab4ec7e505e.png)
 
-<p align = "center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ssook1222&layout=compact&hide=scss,GLSL,shaderLab,HLSLt">
-  <img style="width: 35%; display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssook1222&layout=compact&hide=scss,GLSL,shaderLab,HLSL" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=ssook1222&show_icons=trues">
-  <img style="width: 42%; display: inline-block" src="https://github-readme-stats.vercel.app/api?username=ssook1222&show_icons=true"/>
-</a>
-</p>
+<br/>
+<h2><p align = "center">I am currently working as a developer at <i>Kyobo Information & Communications.</i></p></h2>
 
 <h2> <p align = "center"> 🛠 Tech Stack </p></h2>
 <p>◆ A list of programming languages I've used at least once in my projects.</p>
@@ -31,6 +25,8 @@
   </p>&nbsp
 
 
+<hr/>
+
 <h2> <p align = "center"> 🔍 Contact Me </p></h2>
 <p align = "center">
  <a href="https://blog.naver.com/chlthr1222">
@@ -43,6 +39,15 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
  </a>
 
+ 
+  <p align = "center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ssook1222&layout=compact&hide=scss,GLSL,shaderLab,HLSLt">
+    <img style="width: 35%; display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssook1222&layout=compact&hide=scss,GLSL,shaderLab,HLSL" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=ssook1222&show_icons=trues">
+    <img style="width: 42%; display: inline-block" src="https://github-readme-stats.vercel.app/api?username=ssook1222&show_icons=true"/>
+  </a>
+  </p>
   
   
 </p>
