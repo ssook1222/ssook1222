@@ -39,6 +39,12 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
  </a>
 
+<div align = "center">  
+  
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=langgel1222)](https://solved.ac/langgel1222)
+  
+</div>  
  
   <p align = "center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ssook1222&layout=compact&hide=scss,GLSL,shaderLab,HLSLt">
