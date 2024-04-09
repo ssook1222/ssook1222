@@ -7,11 +7,15 @@
 <p>◆ A list of programming languages I've used at least once in my projects.</p>
 ◆ On my <a href="https://portfolio-ssook1222.vercel.app/">homepage</a>, you can see my various technology stacks including frameworks and platforms. <br />
 The English version is <a href="https://ssook1222.github.io/">here</a> ( = Please check the past portfolio homepage.) <br />
-※ The English version will be added after development is completed.
+※ The English version will be added after development is completed. <br /> <br />
+<p>
+  ◆ Also I upload SQL problem solutions every week to the <a href="https://sbl-omega.vercel.app/"> my SQL Blog </a> <b>(I created it myself, Not using platform)</b>.
+</p>
 
+<br />
 
 <hr/>&nbsp
-
+<br />
   <p align = "center"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
