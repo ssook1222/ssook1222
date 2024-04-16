@@ -5,7 +5,7 @@
 
 <h2> <p align = "center"> 🛠 Tech Stack </p></h2>
 <p>◆ A list of programming languages I've used at least once in my projects.</p>
-<p>◆ On my <a href="https://portfolio-ssook1222.vercel.app/">homepage</a>, you can see my various technology stacks including frameworks and platforms. </p>
+<p>◆ On my <a href="https://portfolio-ssook1222s-projects.vercel.app/">homepage</a>, you can see my various technology stacks including frameworks and platforms. </p>
 <p>
   ◆ Also I upload SQL problem solutions every week to the <a href="https://sbl-omega.vercel.app/"> my SQL Blog </a> <b>(I created it myself, Not using platform)</b>.
 </p>
