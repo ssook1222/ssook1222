@@ -1,7 +1,7 @@
 ![제목을-입력해주세요_-002 (1)](https://user-images.githubusercontent.com/60427387/211186587-10a94259-273e-45fc-b52b-2ab4ec7e505e.png)
 
 <br/>
-<h2><p align = "center">I am currently working as a developer at <i>Kyobo DTS.</i></p></h2>
+<h2><p align = "center">I am currently working as a Bridge System Engineer at <i><a href="https://www.wacker.com/cms/en-kr/about-wacker/wacker-global/korea/overview.html">Warker Chemical Korea</a></i></p></h2>
 
 <h2> <p align = "center"> 🛠 Tech Stack </p></h2>
 <p>◆ A list of programming languages I've used at least once in my projects.</p>
