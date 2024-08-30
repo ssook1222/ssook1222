@@ -1,13 +1,13 @@
 ![제목을-입력해주세요_-002 (1)](https://user-images.githubusercontent.com/60427387/211186587-10a94259-273e-45fc-b52b-2ab4ec7e505e.png)
 
 <br/>
-<h2><p align = "center">I am currently working as a Business System Analysist at <i><a href="https://www.wacker.com/cms/en-kr/about-wacker/wacker-global/korea/overview.html">Warker Chemical Korea</a></i></p></h2>
+<h2><p align = "center">I am currently working as a business system analyst at <i><a href="https://www.wacker.com/cms/en-kr/about-wacker/wacker-global/korea/overview.html">WACKER Chemical Korea</a></i></p></h2>
 
 <h2> <p align = "center"> 🛠 Tech Stack </p></h2>
-<p>◆ A list of programming languages I've used at least once in my projects.</p>
+<p>◆ This is a list of programming languages that I have used at least once in my projects.</p>
 <p>◆ On my <a href="https://portfolio-ssook1222s-projects.vercel.app/">homepage</a>, you can see my various technology stacks including frameworks and platforms. </p>
 <p>
-  ◆ Also I upload SQL problem solutions every week to the <a href="https://sbl-omega.vercel.app/"> my SQL Blog </a> <b>(I created it myself, Not using platform)</b>.
+  ◆ Also I have upload SQL problem solutions every week to the <a href="https://sbl-omega.vercel.app/"> my SQL blog </a> <b>(I created it myself, not using any platforms)</b>.
 </p>
 
 <br />
